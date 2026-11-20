@@ -1,0 +1,96 @@
+{
+  "id": "ozma-of-oz",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "L. Frank Baum (1907)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/486",
+  "title": "Ozma of Oz",
+  "author": "L. Frank Baum",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "1. The Girl in the Chicken Coop",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "2. The Yellow Hen",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "3. Letters in the Sand",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "4. Tiktok the Machine Man",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "5. Dorothy Opens the Dinner Pail",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "6. The Heads of Langwidere",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "7. Ozma of Oz to the Rescue",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "8. The Hungry Tiger",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "9. The Royal Family of Ev",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "10. The Giant with the Hammer",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "11. The Nome King",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "12. The Eleven Guesses",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "13. The Nome King Laughs",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "14. Dorothy Tries to be Brave",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "15. Billina Frightens the Nome King",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "16. Purple, Green, and Gold",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "17. The Scarecrow Wins the Fight",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "18. The Fate of the Tin Woodman",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "19. The King of Ev",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "20. The Emerald City",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "21. Dorothy's Magic Belt",
+      "file": "ch-21.json"
+    }
+  ]
+}

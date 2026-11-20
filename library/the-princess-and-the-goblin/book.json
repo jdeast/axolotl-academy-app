@@ -1,0 +1,140 @@
+{
+  "id": "the-princess-and-the-goblin",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "George MacDonald (1872)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/708",
+  "title": "The Princess and the Goblin",
+  "author": "George MacDonald",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "CHAPTER 1: Why the Princess Has a Story About Her",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "CHAPTER 2: The Princess Loses Herself",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "CHAPTER 3: The Princess and—We Shall See Who",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "CHAPTER 4: What the Nurse Thought of It",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "CHAPTER 5: The Princess Lets Well Alone",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "CHAPTER 6: The Little Miner",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "CHAPTER 7: The Mines",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "CHAPTER 8: The Goblins",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "CHAPTER 9: The Hall of the Goblin Palace",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "CHAPTER 10: The Princess's King-Papa",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "CHAPTER 11: The Old Lady's Bedroom",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "CHAPTER 12: A Short Chapter About Curdie",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "CHAPTER 13: The Cobs' Creatures",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "CHAPTER 14: That Night Week",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "CHAPTER 15: Woven and Then Spun",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "CHAPTER 16: The Ring",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "CHAPTER 17: Springtime",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "CHAPTER 18: Curdie's Clue",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "CHAPTER 19: Goblin Counsels",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "CHAPTER 20: Irene's Clue",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "CHAPTER 21: The Escape",
+      "file": "ch-21.json"
+    },
+    {
+      "title": "CHAPTER 22: The Old Lady and Curdie",
+      "file": "ch-22.json"
+    },
+    {
+      "title": "CHAPTER 23: Curdie and His Mother",
+      "file": "ch-23.json"
+    },
+    {
+      "title": "CHAPTER 24: Irene Behaves Like a Princess",
+      "file": "ch-24.json"
+    },
+    {
+      "title": "CHAPTER 25: Curdie Comes to Grief",
+      "file": "ch-25.json"
+    },
+    {
+      "title": "CHAPTER 26: The Goblin-Miners",
+      "file": "ch-26.json"
+    },
+    {
+      "title": "CHAPTER 27: The Goblins in the King's House",
+      "file": "ch-27.json"
+    },
+    {
+      "title": "CHAPTER 28: Curdie's Guide",
+      "file": "ch-28.json"
+    },
+    {
+      "title": "CHAPTER 29: Masonwork",
+      "file": "ch-29.json"
+    },
+    {
+      "title": "CHAPTER 30: The King and the Kiss",
+      "file": "ch-30.json"
+    },
+    {
+      "title": "CHAPTER 31: The Subterranean Waters",
+      "file": "ch-31.json"
+    },
+    {
+      "title": "CHAPTER 32: The Last Chapter",
+      "file": "ch-32.json"
+    }
+  ]
+}

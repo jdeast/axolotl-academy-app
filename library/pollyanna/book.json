@@ -1,0 +1,140 @@
+{
+  "id": "pollyanna",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "Eleanor H. Porter (1913)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1450",
+  "title": "Pollyanna",
+  "author": "Eleanor H. Porter",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "CHAPTER I. MISS POLLY",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "CHAPTER II. OLD TOM AND NANCY",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "CHAPTER III. THE COMING OF POLLYANNA",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "CHAPTER IV. THE LITTLE ATTIC ROOM",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "CHAPTER V. THE GAME",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "CHAPTER VI. A QUESTION OF DUTY",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "CHAPTER VII. POLLYANNA AND PUNISHMENTS",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "CHAPTER VIII. POLLYANNA PAYS A VISIT",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "CHAPTER IX. WHICH TELLS OF THE MAN",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "CHAPTER X. A SURPRISE FOR MRS. SNOW",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "CHAPTER XI. INTRODUCING JIMMY",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "CHAPTER XII. BEFORE THE LADIES' AID",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "CHAPTER XIII. IN PENDLETON WOODS",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "CHAPTER XIV. JUST A MATTER OF JELLY",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "CHAPTER XV. DR. CHILTON",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "CHAPTER XVI. A RED ROSE AND A LACE SHAWL",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "CHAPTER XVII. “JUST LIKE A BOOK”",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "CHAPTER XVIII. PRISMS",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "CHAPTER XIX. WHICH IS SOMEWHAT SURPRISING",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "CHAPTER XX. WHICH IS MORE SURPRISING",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "CHAPTER XXI. A QUESTION ANSWERED",
+      "file": "ch-21.json"
+    },
+    {
+      "title": "CHAPTER XXII. SERMONS AND WOODBOXES",
+      "file": "ch-22.json"
+    },
+    {
+      "title": "CHAPTER XXIII. AN ACCIDENT",
+      "file": "ch-23.json"
+    },
+    {
+      "title": "CHAPTER XXIV. JOHN PENDLETON",
+      "file": "ch-24.json"
+    },
+    {
+      "title": "CHAPTER XXV. A WAITING GAME",
+      "file": "ch-25.json"
+    },
+    {
+      "title": "CHAPTER XXVI. A DOOR AJAR",
+      "file": "ch-26.json"
+    },
+    {
+      "title": "CHAPTER XXVII. TWO VISITS",
+      "file": "ch-27.json"
+    },
+    {
+      "title": "CHAPTER XXVIII. THE GAME AND ITS PLAYERS",
+      "file": "ch-28.json"
+    },
+    {
+      "title": "CHAPTER XXIX. THROUGH AN OPEN WINDOW",
+      "file": "ch-29.json"
+    },
+    {
+      "title": "CHAPTER XXX. JIMMY TAKES THE HELM",
+      "file": "ch-30.json"
+    },
+    {
+      "title": "CHAPTER XXXI. A NEW UNCLE",
+      "file": "ch-31.json"
+    },
+    {
+      "title": "CHAPTER XXXII. WHICH IS A LETTER FROM POLLYANNA",
+      "file": "ch-32.json"
+    }
+  ]
+}

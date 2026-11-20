@@ -1,0 +1,68 @@
+{
+  "id": "the-jungle-book",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "Rudyard Kipling (1894)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/236",
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "Mowgli’s Brothers",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "Hunting-Song of the Seeonee Pack",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "Kaa’s Hunting",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "Road-Song of the Bandar-Log",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "“Tiger! Tiger!”",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "Mowgli’s Song",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "The White Seal",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "Lukannon",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "“Rikki-Tikki-Tavi”",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "Darzee’s Chant",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "Toomai of the Elephants",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "Shiv and the Grasshopper",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "Her Majesty’s Servants",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "Parade Song of the Camp Animals",
+      "file": "ch-14.json"
+    }
+  ]
+}

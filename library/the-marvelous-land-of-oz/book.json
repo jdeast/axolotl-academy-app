@@ -1,0 +1,112 @@
+{
+  "id": "the-marvelous-land-of-oz",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "L. Frank Baum (1904)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/54",
+  "title": "The Marvelous Land of Oz",
+  "author": "L. Frank Baum",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "Author’s Note",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "Tip Manufactures a Pumpkinhead",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "The Marvelous Powder of Life",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "The Flight of the Fugitives",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "Tip Makes an Experiment in Magic",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "The Awakening of the Saw-horse",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "Jack Pumpkinhead’s Ride to the Emerald City",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "His Majesty the Scarecrow",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "Gen. Jinjur’s Army of Revolt",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "The Scarecrow Plans an escape",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "The Journey to the Tin Woodman",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "A Nickel-Plated Emperor",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "Mr. H. M. Woggle-Bug, T. E.",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "A Highly Magnified History",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "Old Mombi indulges in Witchcraft",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "The Prisoners of the Queen",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "The Scarecrow Takes Time to Think",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "The Astonishing Flight of the Gump",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "In the Jackdaw’s Nest",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "Dr. Nikidik’s Famous Wishing Pills",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "The Scarecrow Appeals to Glinda the Good",
+      "file": "ch-21.json"
+    },
+    {
+      "title": "The Tin-Woodman Plucks a Rose",
+      "file": "ch-22.json"
+    },
+    {
+      "title": "The Transformation of Old Mombi",
+      "file": "ch-23.json"
+    },
+    {
+      "title": "Princess Ozma of Oz",
+      "file": "ch-24.json"
+    },
+    {
+      "title": "The Riches of Content",
+      "file": "ch-25.json"
+    }
+  ]
+}

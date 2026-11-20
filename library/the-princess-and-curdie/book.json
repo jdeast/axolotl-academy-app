@@ -1,0 +1,152 @@
+{
+  "id": "the-princess-and-curdie",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "George MacDonald (1883)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/709",
+  "title": "The Princess and Curdie",
+  "author": "George MacDonald",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "CHAPTER 1: The Mountain",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "CHAPTER 2: The White Pigeon",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "CHAPTER 3: The Mistress of the Silver Moon",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "CHAPTER 4: Curdie's Father and Mother",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "CHAPTER 5: The Miners",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "CHAPTER 6: The Emerald",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "CHAPTER 7: What Is in a Name?",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "CHAPTER 8: Curdie's Mission",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "CHAPTER 9: Hands",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "CHAPTER 10: The Heath",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "CHAPTER 11: Lina",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "CHAPTER 12: More Creatures",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "CHAPTER 13: The Baker's Wife",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "CHAPTER 14: The Dogs of Gwyntystorm",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "CHAPTER 15: Derba and Barbara",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "CHAPTER 16: The Mattock",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "CHAPTER 17: The Wine Cellar",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "CHAPTER 18: The King's Kitchen",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "CHAPTER 19: The King's Chamber",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "CHAPTER 20: Counterplotting",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "CHAPTER 21: The Loaf",
+      "file": "ch-21.json"
+    },
+    {
+      "title": "CHAPTER 22: The Lord Chamberlain",
+      "file": "ch-22.json"
+    },
+    {
+      "title": "CHAPTER 23: Dr Kelman",
+      "file": "ch-23.json"
+    },
+    {
+      "title": "CHAPTER 24: The Prophecy",
+      "file": "ch-24.json"
+    },
+    {
+      "title": "CHAPTER 25: The Avengers",
+      "file": "ch-25.json"
+    },
+    {
+      "title": "CHAPTER 26: The Vengeance",
+      "file": "ch-26.json"
+    },
+    {
+      "title": "CHAPTER 27: More Vengeance",
+      "file": "ch-27.json"
+    },
+    {
+      "title": "CHAPTER 28: The Preacher",
+      "file": "ch-28.json"
+    },
+    {
+      "title": "CHAPTER 29: Barbara",
+      "file": "ch-29.json"
+    },
+    {
+      "title": "CHAPTER 30: Peter",
+      "file": "ch-30.json"
+    },
+    {
+      "title": "CHAPTER 31: The Sacrifice",
+      "file": "ch-31.json"
+    },
+    {
+      "title": "CHAPTER 32: The King's Army",
+      "file": "ch-32.json"
+    },
+    {
+      "title": "CHAPTER 33: The Battle",
+      "file": "ch-33.json"
+    },
+    {
+      "title": "CHAPTER 34: Judgement",
+      "file": "ch-34.json"
+    },
+    {
+      "title": "CHAPTER 35: The End",
+      "file": "ch-35.json"
+    }
+  ]
+}

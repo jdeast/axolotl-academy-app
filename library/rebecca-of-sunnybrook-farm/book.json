@@ -1,0 +1,136 @@
+{
+  "id": "rebecca-of-sunnybrook-farm",
+  "level": 6,
+  "license": "PD-US",
+  "attribution": "Kate Douglas Wiggin (1903)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/498",
+  "title": "Rebecca of Sunnybrook Farm",
+  "author": "Kate Douglas Wiggin",
+  "format": "chapters",
+  "chapters": [
+    {
+      "title": "I: \"WE ARE SEVEN\"",
+      "file": "ch-01.json"
+    },
+    {
+      "title": "II: REBECCA'S RELATIONS",
+      "file": "ch-02.json"
+    },
+    {
+      "title": "III: A DIFFERENCE IN HEARTS",
+      "file": "ch-03.json"
+    },
+    {
+      "title": "IV: REBECCA'S POINT OF VIEW",
+      "file": "ch-04.json"
+    },
+    {
+      "title": "V: WISDOM'S WAYS",
+      "file": "ch-05.json"
+    },
+    {
+      "title": "VI: SUNSHINE IN A SHADY PLACE",
+      "file": "ch-06.json"
+    },
+    {
+      "title": "VII: RIVERBORO SECRETS",
+      "file": "ch-07.json"
+    },
+    {
+      "title": "VIII: COLOR OF ROSE",
+      "file": "ch-08.json"
+    },
+    {
+      "title": "IX: ASHES OF ROSES",
+      "file": "ch-09.json"
+    },
+    {
+      "title": "X: RAINBOW BRIDGES",
+      "file": "ch-10.json"
+    },
+    {
+      "title": "XI: \"THE STIRRING OF THE POWERS\"",
+      "file": "ch-11.json"
+    },
+    {
+      "title": "XII: \"SEE THE PALE MARTYR\"",
+      "file": "ch-12.json"
+    },
+    {
+      "title": "XIII: SNOW-WHITE; ROSE-RED",
+      "file": "ch-13.json"
+    },
+    {
+      "title": "XIV: MR. ALADDIN",
+      "file": "ch-14.json"
+    },
+    {
+      "title": "XV: THE BANQUET LAMP",
+      "file": "ch-15.json"
+    },
+    {
+      "title": "XVI: SEASONS OF GROWTH",
+      "file": "ch-16.json"
+    },
+    {
+      "title": "XVII: GRAY DAYS AND GOLD",
+      "file": "ch-17.json"
+    },
+    {
+      "title": "XVIII: REBECCA REPRESENTS THE FAMILY",
+      "file": "ch-18.json"
+    },
+    {
+      "title": "XIX: DEACON ISRAEL'S SUCCESSOR",
+      "file": "ch-19.json"
+    },
+    {
+      "title": "XX: A CHANGE OF HEART",
+      "file": "ch-20.json"
+    },
+    {
+      "title": "XXI: THE SKY LINE WIDENS",
+      "file": "ch-21.json"
+    },
+    {
+      "title": "XXII: CLOVER BLOSSOMS AND SUNFLOWERS",
+      "file": "ch-22.json"
+    },
+    {
+      "title": "XXIII: THE HILL DIFFICULTY",
+      "file": "ch-23.json"
+    },
+    {
+      "title": "XXIV: ALADDIN RUBS HIS LAMP",
+      "file": "ch-24.json"
+    },
+    {
+      "title": "XXV: ROSES OF JOY",
+      "file": "ch-25.json"
+    },
+    {
+      "title": "XXVI: \"OVER THE TEACUPS\"",
+      "file": "ch-26.json"
+    },
+    {
+      "title": "XXVII: \"THE VISION SPLENDID\"",
+      "file": "ch-27.json"
+    },
+    {
+      "title": "XXVIII: \"TH' INEVITABLE YOKE\"",
+      "file": "ch-28.json"
+    },
+    {
+      "title": "XXIX: MOTHER AND DAUGHTER",
+      "file": "ch-29.json"
+    },
+    {
+      "title": "XXX: GOOD-BY, SUNNYBROOK",
+      "file": "ch-30.json"
+    },
+    {
+      "title": "XXXI: AUNT MIRANDA'S APOLOGY",
+      "file": "ch-31.json"
+    }
+  ]
+}
